@@ -3,16 +3,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=docksdocks&label=Profile%20views&color=0e75b6&style=flat" alt="docksdocks" /> </p>
 
-- 🌱 I’m currently learning **Python**
+<h2>
+  
+- 🌱 I’m currently learning <b>Python</b>
 
 - 📫 How to reach me: **docksdevbr@gmail.com**
 
+  
 <h3 align="left">Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eduardo-marquez-costa-barbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-marquez-costa-barbosa" height="30" width="40" /></a>
 </p>
-
+  
+</h2>
 <h2 align="left"> Skills </h2>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
