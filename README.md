@@ -13,7 +13,9 @@
 
 
 </h2>
-## Linkedin:
+
+##Linkedin:
+
 <p align="left">
 <a href="https://linkedin.com/in/eduardo-marquez-costa-barbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-marquez-costa-barbosa" height="30" width="40" /></a>
 </p>
