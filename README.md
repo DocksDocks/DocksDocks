@@ -13,7 +13,7 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 <a href="https://linkedin.com/in/eduardo-marquez-costa-barbosa" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-docksdocks-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-EduardoMarquez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 <h2 align="left"> Skills </h2>
