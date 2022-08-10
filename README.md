@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Marquez</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A backend developer from Brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=docksdocks&label=visitors&color=0e75b6&style=flat" alt="docksdocks" /> </p>
 
