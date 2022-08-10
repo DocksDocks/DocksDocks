@@ -2,21 +2,14 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DocksDocks/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Eduardo Marquez</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=docksdocks&label=visitors&color=0e75b6&style=flat" alt="docksdocks" /> </p>
-<h3 align="center">A backend developer from Brazil</h3>
 
+- 🔥 Focused on backend developing
 
-<h2 align="left">
-  
 - 🌱 I’m currently learning <b>Python</b>
 
 - 📫 How to reach me: **docksdevbr@gmail.com**
 
 
-
-## 👨🏽‍🦲 &nbsp;Social Links
-<a href="https://linkedin.com/in/eduardo-marquez-costa-barbosa" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-EduardoMarquez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 
 <h2 align="left"> Skills </h2>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
@@ -57,3 +50,9 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=docksdocks&show_icons=true&theme=vision-friendly-dark" alt="docksdocks's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=docksdocks&layout=compact&theme=vision-friendly-dark" alt="docksdocks's most languages"/>
 </p>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+<a href="https://linkedin.com/in/eduardo-marquez-costa-barbosa" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-EduardoMarquez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
