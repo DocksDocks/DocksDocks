@@ -52,8 +52,9 @@ Linkedin:</h2>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=docksdocks&show_icons=true&locale=en&layout=compact" alt="docksdocks"/></p>
+## ⚙️ &nbsp;GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=docksdocks&show_icons=true&locale=en" alt="docksdocks"/> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=docksdocks&" alt="docksdocks" /></p>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=docksdocks&show_icons=true&theme=vision-friendly-dark" alt="docksdocks's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=docksdocks&layout=compact&theme=vision-friendly-dark" alt="docksdocks's most languages"/>
+</p>
