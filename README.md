@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DocksDocks/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="590em" src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Eduardo Marquez</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=docksdocks&label=visitors&color=0e75b6&style=flat" alt="docksdocks" /> </p>
 
