@@ -4,7 +4,7 @@
 
 - 🔥 Focused on backend developing
 
-- 🌱 I’m currently learning <b>Python</b>
+- 🌱 I’m currently learning <b>NextJS</b>
 
 - 📫 How to reach me: **docksdevbr@gmail.com**
 
