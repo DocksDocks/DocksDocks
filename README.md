@@ -4,7 +4,7 @@
 
 - 🔥 Focused on backend developing
 
-- 🌱 I’m currently learning <b>React Native</b>
+- 🌱 I’m currently learning <b>Ruby </b>
 
 - 📫 How to reach me: **docksdevbr@gmail.com**
 
