@@ -14,7 +14,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=docksdocks&layout=compact&theme=vision-friendly-dark" alt="docksdocks's most languages"/>
 </p>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## &nbsp;Social Links
 <a href="https://linkedin.com/in/eduardo-marquez-costa-barbosa" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-EduardoMarquez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
