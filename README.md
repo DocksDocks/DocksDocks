@@ -1,21 +1,21 @@
+<h1 align="center">I'm Eduardo Marquez</h1>
+<p align="center">Backend & infra · São Paulo, Brazil 🇧🇷</p>
 
-<h1 align="left">Hi I'm Eduardo Marquez </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=docksdocks&label=visitors&color=0e75b6&style=flat" alt="docksdocks" /> </p>
-
--  Focused on backend developing
-
--  How to reach me: **docksdevbr@gmail.com**
-
-
-## &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=docksdocks&show_icons=true&theme=vision-friendly-dark" alt="docksdocks's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=docksdocks&layout=compact&theme=vision-friendly-dark" alt="docksdocks's most languages"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=docksdocks&label=visitors&color=0e75b6&style=flat" alt="docksdocks" />
 </p>
 
-## &nbsp;Social Links
-<a href="https://linkedin.com/in/eduardo-marquez-costa-barbosa" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-EduardoMarquez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+### Tech
 
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,tailwind,docker,linux,nginx,postgres,cloudflare)](https://skillicons.dev)
+
+### Currently
+
+- 🔧 Working on [docks](https://github.com/DocksDocks/docks) — Claude Code plugin: multi-agent pipeline
+  
+### Contact
+
+<p align="left">
+  <a href="https://linkedin.com/in/eduardo-marquez-costa-barbosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:docksdevbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
